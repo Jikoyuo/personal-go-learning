@@ -277,8 +277,8 @@ func main() {
       `}>
         <div className="p-6 border-b border-slate-700 flex justify-between items-center">
           <div>
-            <h1 className="text-xl font-bold text-cyan-400">Go: Zero to Hero</h1>
-            <p className="text-xs text-slate-400 mt-1">Journey Logbook</p>
+            <h1 className="text-xl font-bold text-cyan-400">Golang</h1>
+            <p className="text-xs text-slate-400 mt-1">Personal Learning Logbook</p>
           </div>
           <button onClick={() => setMobileMenuOpen(false)} className="md:hidden text-slate-400 hover:text-white">
             <X size={24} />
